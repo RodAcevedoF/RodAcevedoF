@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a **full-stack developer** passionate about building scalable, clean, and maintainable web applications.
+I'm a **full-stack developer** focused and enjoying building scalable, clean, and maintainable web applications.
 
 - 🧠 Strong focus on **backend architecture & APIs**
 - ⚡ Enjoy working with **modern frontend frameworks**
