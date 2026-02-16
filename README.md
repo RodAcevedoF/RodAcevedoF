@@ -80,8 +80,9 @@ Always learning. Always shipping.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodAcevedoF&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rodrigo's GitHub stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodAcevedoF&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RodAcevedoF&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="Rodrigo's GitHub stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodAcevedoF&layout=compact&theme=dark&hide_border=true&langs_count=8&count_private=true&cache_seconds=1800" alt="Top Languages" height="180" />
 </p>
 
 ---
