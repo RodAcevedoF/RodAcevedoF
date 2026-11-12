@@ -1,74 +1,112 @@
-<h1 align="center">Hi, I'm Rodrigo 👋</h1>
-<h3 align="center">Full-Stack Developer · Web, Backend & Cloud</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RodAcevedoF&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="./assets/profile-header.svg" alt="Rodrigo Acevedo — Full-stack developer. Web applications, thoughtful architecture and applied AI." width="1200" />
 </p>
 
----
-
-## 🚀 About Me
-
-I'm a **full-stack developer** focused on building scalable, maintainable, and well-architected web applications.
-
-- 🧠 Backend-first mindset with strong API design
-- ⚡ Modern frontend tooling & performance-oriented setups
-- ☁️ Cloud-native deployments & CI-friendly workflows
-- 🛠️ I care about **DX, clean code, and long-term maintainability**
----
-
-## 🧰 Tech Stack
-
-### 👨‍💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodAcevedoF&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="Rodrigo's GitHub stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodAcevedoF&layout=compact&theme=dark&hide_border=true&langs_count=8&count_private=true&cache_seconds=1800" alt="Top Languages" height="180" />
+  <a href="https://github.com/RodAcevedoF?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rodrigoacevedodev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:raacevedof@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Get in touch by email" /></a>
 </p>
 
+## 👋 Building beyond the interface
+
+I'm Rodrigo, a **full-stack developer with a backend-first mindset**. I build web applications with a focus on clear APIs, maintainable architecture and the experience of the people using them.
+
+My projects explore how AI can make information more useful: turning documents into learning paths, research into geographic context, and health topics into guided learning.
+
+**Good software should be useful to people — and understandable to the developers who maintain it.**
+
+## 🚀 Selected work
+
+### 🌱 [Sagepoint](https://github.com/RodAcevedoF/sagepoint)
+**Your documents, turned into a learning path.**
+
+An AI-powered application that generates learning roadmaps from your own documents. A full-stack project connecting document-based learning with a structured way to navigate what comes next.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white)
+
+[Explore Sagepoint ↗](https://github.com/RodAcevedoF/sagepoint)
+
 ---
 
-## 📫 Let’s Connect
+### 🌍 [Atlas](https://github.com/RodAcevedoF/atlas)
+**Research with a sense of place.**
 
-- 💼 GitHub: [@RodAcevedoF](https://github.com/RodAcevedoF)
-- 🚀 Open to collaboration, side projects & interesting problems
+Turns a research question into a map of sourced claims. Readers can explore where events are happening, inspect the evidence for each place and read an accompanying intelligence summary.
 
-<p align="center">
-  <i>Build things. Understand them. Make them better.</i>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Exa retrieval](https://img.shields.io/badge/Exa-Retrieval-6D5EF5?style=flat-square)
+![Geospatial research](https://img.shields.io/badge/Geospatial-Research-0D9488?style=flat-square)
+
+[Explore Atlas ↗](https://github.com/RodAcevedoF/atlas)
+
+---
+
+### 🧠 [HealthBot](https://github.com/RodAcevedoF/healthbot-langgraph)
+**Health education as a guided conversation.**
+
+A patient-education prototype built with LangGraph. It searches medical sources, explains a chosen topic in plain language and reinforces learning through quizzes and feedback with citations. An exploration of educational workflows, not a clinical tool.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily-2563EB?style=flat-square)
+
+[Explore HealthBot ↗](https://github.com/RodAcevedoF/healthbot-langgraph)
+
+## 🛠️ Technologies I work with
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,html&amp;perline=6" alt="TypeScript, JavaScript, Python, Java, Rust and HTML" width="324" height="48" />
 </p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui,bootstrap&amp;perline=5" alt="React, Next.js, Tailwind CSS, MUI and Bootstrap" width="269" height="48" />
+</p>
+
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=shadcnui&logoColor=white)
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,express,spring&amp;perline=3" alt="NestJS, Express and Spring" width="159" height="48" />
+</p>
+
+![Fastify](https://img.shields.io/badge/Fastify-181717?style=flat-square&logo=fastify&logoColor=white)
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&amp;perline=3" alt="PostgreSQL, MySQL and MongoDB" width="159" height="48" />
+</p>
+
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+
+### AI & agent workflows
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Tavily](https://img.shields.io/badge/Tavily-2563EB?style=for-the-badge)
+![Exa](https://img.shields.io/badge/Exa-6D5EF5?style=for-the-badge)
+
+### Delivery & tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,git&amp;perline=4" alt="Docker, GitHub Actions, Jenkins and Git" width="214" height="48" />
+</p>
+
+## 🤝 Let's build something useful
+
+Open to collaboration, side projects and interesting problems — especially where web development, thoughtful backend design and applied AI meet.
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/rodrigoacevedodev/)** &nbsp; · &nbsp; **[Send me an email](mailto:raacevedof@gmail.com)**
+
+---
+
+<p align="center"><sub>Build things. Understand them. Make them better.</sub></p>
