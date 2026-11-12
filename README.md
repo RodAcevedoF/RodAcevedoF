@@ -1,74 +1,76 @@
 <h1 align="center">Hi, I'm Rodrigo 👋</h1>
-<h3 align="center">Full-Stack Developer · Web, Backend & Cloud</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RodAcevedoF&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a **full-stack developer** focused on building scalable, maintainable, and well-architected web applications.
-
-- 🧠 Backend-first mindset with strong API design
-- ⚡ Modern frontend tooling & performance-oriented setups
-- ☁️ Cloud-native deployments & CI-friendly workflows
-- 🛠️ I care about **DX, clean code, and long-term maintainability**
----
-
-## 🧰 Tech Stack
-
-### 👨‍💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodAcevedoF&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="Rodrigo's GitHub stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodAcevedoF&layout=compact&theme=dark&hide_border=true&langs_count=8&count_private=true&cache_seconds=1800" alt="Top Languages" height="180" />
-</p>
-
----
-
-## 📫 Let’s Connect
-
-- 💼 GitHub: [@RodAcevedoF](https://github.com/RodAcevedoF)
-- 🚀 Open to collaboration, side projects & interesting problems
-
-<p align="center">
+  <b>Full-Stack Developer</b> · Web, Backend & Cloud<br/>
   <i>Build things. Understand them. Make them better.</i>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RodAcevedoF&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### 🚀 About me
+
+I'm a full-stack developer focused on building **scalable, maintainable and well-architected** web applications. Backend-first, with a strong eye on API design, performance-oriented frontends and cloud-native, CI-friendly delivery. I care about **DX, clean code and long-term maintainability**.
+
+### 🧰 Tech stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,java,py,rust,html" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui,bootstrap" alt="Frontend" /> <sub>+ shadcn/ui</sub></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" alt="Backend" /> <sub>+ Fastify</sub></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" /> <sub>+ Neo4j</sub></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,git" alt="DevOps" /></td>
+  </tr>
+</table>
+
+### 🛠️ Featured projects
+
+<!-- Reemplaza con tus proyectos reales -->
+| Project | Description | Stack |
+|---|---|---|
+| [**project-one**](https://github.com/RodAcevedoF/project-one) | One line about what it solves | NestJS · PostgreSQL · Docker |
+| [**project-two**](https://github.com/RodAcevedoF/project-two) | One line about what it solves | Next.js · Tailwind · Vercel |
+| [**project-three**](https://github.com/RodAcevedoF/project-three) | One line about what it solves | Spring · Neo4j |
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="./metrics.general.svg" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="./metrics.languages.svg" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodAcevedoF/RodAcevedoF/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/RodAcevedoF/RodAcevedoF/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+### 📫 Let's connect
+
+<!-- Añade los que uses -->
+<p>
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+Open to collaboration, side projects and interesting problems.
